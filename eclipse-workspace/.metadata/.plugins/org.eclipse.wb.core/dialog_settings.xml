@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.wb.internal.core.nls.ui.NlsDialog">
+		<item value="341" key="x"/>
+		<item value="683" key="width"/>
+		<item value="192" key="y"/>
+		<item value="384" key="height"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.actions.assistant.LayoutAssistantWindow">
+		<item value="648" key="x"/>
+		<item value="328" key="y"/>
+	</section>
+</section>
