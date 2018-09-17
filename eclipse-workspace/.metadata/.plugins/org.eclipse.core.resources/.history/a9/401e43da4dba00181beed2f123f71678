@@ -56,7 +56,7 @@ public class Olregnskab {
 		panel.setBounds(0, 0, 543, 88);
 		frame.getContentPane().add(panel);
 		panel.setLayout(null);
-		//panel 1 overskrift og tilføj gæst knap
+		
 		JLabel lblRegnskab = new JLabel("Regnskab");
 		lblRegnskab.setForeground(Color.WHITE);
 		lblRegnskab.setBounds(206, 11, 170, 32);
@@ -74,7 +74,7 @@ public class Olregnskab {
 		});
 		btnNewButton.setBounds(51, 54, 443, 23);
 		panel.add(btnNewButton);
-		//panel 2 med tabellen med info omkring kunderne
+		
 		JPanel panel_1 = new JPanel();
 		panel_1.setBackground(Color.BLACK);
 		panel_1.setBounds(0, 87, 543, 299);
@@ -87,7 +87,6 @@ public class Olregnskab {
 		table.setBounds(10, 29, 513, 259);
 		panel_1.add(table);
 		
-		//labels til kolloner
 		JLabel lbll = new JLabel("\u00D8l");
 		lbll.setForeground(Color.WHITE);
 		lbll.setBounds(115, 11, 46, 14);
@@ -112,7 +111,7 @@ public class Olregnskab {
 		lblNavn.setForeground(Color.WHITE);
 		lblNavn.setBounds(10, 11, 46, 14);
 		panel_1.add(lblNavn);
-		// panel 3 med knappen til at generere et regnskab til at kunne se hvad folk skal af med
+		
 		JPanel panel_2 = new JPanel();
 		panel_2.setBackground(Color.BLACK);
 		panel_2.setBounds(0, 387, 543, 99);
@@ -124,7 +123,6 @@ public class Olregnskab {
 		btnNewButton_1.setBounds(106, 5, 326, 62);
 		panel_2.add(btnNewButton_1);
 		DefaultTableModel model = (DefaultTableModel) table.getModel();
-		//tilføje kolonner til tabellen
 		model.addColumn("Navn");
 		model.addColumn("Øl");
 		model.addColumn("Vin");
