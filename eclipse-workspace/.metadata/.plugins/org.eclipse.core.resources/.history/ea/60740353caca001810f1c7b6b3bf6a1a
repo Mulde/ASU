@@ -1,0 +1,15 @@
+package MHVDKASU;
+
+public enum commands {
+	Add_Person("add person"),
+	Add_Drink("add drink"),
+	Cheers("cheers"),
+	
+	private final String command;
+	
+	commands(final String str) {
+		command = str;
+	}
+	
+
+}

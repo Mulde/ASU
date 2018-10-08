@@ -1,0 +1,37 @@
+package MHVDKASU;
+
+import java.io.IOException;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.net.Socket;
+import java.net.UnknownHostException;
+
+
+public class socket {
+	
+	public socket(String[] args) throws UnknownHostException, IOException {
+		
+		// connecting the socket to the server and getting the inputstream
+		Socket sck = new Socket("localhost",8090);
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		
+		// echo server code
+		/*System.out.println("enter string");
+		String s = br.readLine();
+		sck.getOutputStream().write(s.getBytes());
+		byte[] b = new byte[1024];
+		sck.getInputStream().read(b );
+		System.out.println(new String(b));*/
+		// sck.close();
+	}
+	public void addperson(String string) throws IOException {
+		
+	}
+	public void adddrink(String string) throws IOException {
+		
+	}
+	public void cheers(String string) throws IOException {
+		
+	}
+
+}
