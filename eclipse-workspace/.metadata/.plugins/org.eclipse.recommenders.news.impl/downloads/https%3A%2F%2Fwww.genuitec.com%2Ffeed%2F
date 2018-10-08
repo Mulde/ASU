@@ -12,12 +12,58 @@
 	<atom:link href="https://www.genuitec.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.genuitec.com</link>
 	<description>The Cloud Control Company</description>
-	<lastBuildDate>Mon, 17 Sep 2018 05:03:42 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Oct 2018 01:10:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.2</generator>
 	<item>
+		<title>CodeMix 2.0 Is Out! Pipelines, CodeMining and More.</title>
+		<link>https://www.genuitec.com/codemix-2-0-pipelines-codemining-more/</link>
+		<pubDate>Tue, 25 Sep 2018 19:24:50 +0000</pubDate>
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[Angular]]></category>
+		<category><![CDATA[build pipelines]]></category>
+		<category><![CDATA[codelive]]></category>
+		<category><![CDATA[CodeMining]]></category>
+		<category><![CDATA[CodeMix 2.0 release]]></category>
+		<category><![CDATA[live preview]]></category>
+		<category><![CDATA[Minimap]]></category>
+		<category><![CDATA[Slack integration]]></category>
+		<category><![CDATA[terminal]]></category>
+		<category><![CDATA[typescript]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=599056</guid>
+		<description><![CDATA[<p>It’s fall, and we’ve just dropped our hottest release of the year, CodeMix 2.0! Well past the CodeMix 1 growing pains, we’re hitting prime time with this release, which includes the best features from Webclipse 1.x, as well as exciting new modern web tech that CodeMix brings to Eclipse from VS Code.Exciting CodeMix CapabilitiesCodeMix is [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/codemix-2-0-pipelines-codemining-more/">CodeMix 2.0 Is Out! Pipelines, CodeMining and More.</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>A Day with Dani: Angular Coding with Angular IDE + CodeMix</title>
+		<link>https://www.genuitec.com/angular-coding-angular-ide-codemix/</link>
+		<pubDate>Mon, 17 Sep 2018 15:53:01 +0000</pubDate>
+		<dc:creator><![CDATA[Dani Faris]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[Angular]]></category>
+		<category><![CDATA[angular development]]></category>
+		<category><![CDATA[Angular development with CodeMix]]></category>
+		<category><![CDATA[angular ide]]></category>
+		<category><![CDATA[codemix]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=596837</guid>
+		<description><![CDATA[<p>Now that I’ve acquired a pretty good amount of knowledge with Python, I have decided to test the waters of Angular development. Already being familiar with CSS, HTML and JavaScript, I was advised to start looking into learning this language. I love working with web technologies, so I went ahead and took an Angular crash [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/angular-coding-angular-ide-codemix/">A Day with Dani: Angular Coding with Angular IDE + CodeMix</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
 		<title>Deep Black Theme for Eclipse Just Got Better</title>
 		<link>https://www.genuitec.com/deep-black-theme-eclipse/</link>
 		<pubDate>Thu, 06 Sep 2018 13:11:09 +0000</pubDate>
@@ -272,42 +318,6 @@
 <p>The post <a rel="nofollow" href="https://www.genuitec.com/angular-elements-made-simple-with-codemix/">Angular Elements Made Simple with CodeMix</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
-		<item>
-		<title>React Tutorial: Create and Debug an App in Eclipse with CodeMix</title>
-		<link>https://www.genuitec.com/react-tutorial-getting-started/</link>
-		<pubDate>Thu, 24 May 2018 15:14:43 +0000</pubDate>
-		<dc:creator><![CDATA[eligiom]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[React in Eclipse]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=588128</guid>
-		<description><![CDATA[<p>Making React run properly in Eclipse can be a really big headache…or an amazingly cool experience with CodeMix! CodeMix integrates the best of the VS Code world into Eclipse, such as support to create and debug React applications. Follow this React tutorial to quickly create and debug an app in Eclipse with CodeMix:Create Your App Make [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/react-tutorial-getting-started/">React Tutorial: Create and Debug an App in Eclipse with CodeMix</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
-		<item>
-		<title>PHP Development in Eclipse Has Never been Easier!</title>
-		<link>https://www.genuitec.com/php-development-in-eclipse-has-never-been-easier/</link>
-		<pubDate>Thu, 17 May 2018 15:18:14 +0000</pubDate>
-		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[php development]]></category>
-		<category><![CDATA[php development in eclipse]]></category>
-		<category><![CDATA[php extensions pack]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=585242</guid>
-		<description><![CDATA[<p>Great news for you, PHP developer: your coding experience in Eclipse just got better thanks to CodeMix! It’s an Eclipse plugin that gives you access to a whole array of technologies from VS Code and add-on extensions built for Code OSS.How does CodeMix handle PHP support? Directly from Code OSS! There is also extra functionality [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/php-development-in-eclipse-has-never-been-easier/">PHP Development in Eclipse Has Never been Easier!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
 	</channel>
 </rss>
 
@@ -316,7 +326,7 @@ Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/pro
 
 Page Caching using disk: enhanced (SSL caching disabled) 
 Content Delivery Network via resources.cloud.genuitec.com
-Database Caching 140/161 queries in 1.255 seconds using disk
+Database Caching 157/161 queries in 0.033 seconds using disk
 
-Served from: www.genuitec.com @ 2018-09-17 01:34:45 by W3 Total Cache
+Served from: www.genuitec.com @ 2018-10-04 02:47:06 by W3 Total Cache
 -->
