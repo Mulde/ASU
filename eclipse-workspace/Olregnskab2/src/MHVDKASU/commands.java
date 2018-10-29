@@ -3,7 +3,7 @@ package MHVDKASU;
 public enum commands {
 	Add_Person("add person"),
 	Buy_Drink("Bought drink"),
-	Cheers("cheers"),
+	Cheers("cheers");
 	
 	private final String command;
 	
